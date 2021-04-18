@@ -1,0 +1,15 @@
+.heading{
+    background-color: rgb(63, 187, 187);
+    font-family: fantasy;
+    font-size: larger;
+    font-weight: bold;
+}
+
+.Intro para{
+    background-color: lightpink;
+    font-size :medium; 
+    font-weight: bold;
+}
+.full{
+    background-color: rgb(22, 177, 216);
+}
